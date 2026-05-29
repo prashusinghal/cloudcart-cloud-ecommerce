@@ -61,9 +61,29 @@ CloudCart is a cloud-based e-commerce web application developed using modern ful
 ## Project Structure
 
 cloudcart/
+│
 ├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── Dockerfile
+│   └── package.json
+│
 ├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── server.js
+│   ├── Dockerfile
+│   └── package.json
+│
+├── screenshots/
+│   ├── homepage.png
+│   ├── products.png
+│   ├── aws-ec2.png
+│   ├── docker-deployment.png
+│   └── architecture.png
+│
 └── docker-compose.yml
+
 
 ## Deployment
 
