@@ -6,7 +6,7 @@ CloudCart is a cloud-based e-commerce web application developed using modern ful
 
 ## Architecture
 
-<img width="788" height="1182" alt="Picture6" src="https://github.com/user-attachments/assets/c26c6560-7235-4827-9110-7c70b3c6000e" />
+<img width="788" height="800" alt="Picture6" src="https://github.com/user-attachments/assets/c26c6560-7235-4827-9110-7c70b3c6000e" />
 
 
 ## Features
